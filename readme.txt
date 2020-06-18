@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 工作区修改，并添加到stage
 --2020.6.17
 新建分支的内容
+冲突的这一行 f1

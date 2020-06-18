@@ -6,3 +6,6 @@ Git has a mutable index called stage.
 新建分支的内容
 冲突这一行master + f1
 普通合并分支模式
+
+
+修改bug

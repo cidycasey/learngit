@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 --2020.6.17
 新建分支的内容
 冲突这一行master + f1
+普通合并分支模式
